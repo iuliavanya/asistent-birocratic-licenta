@@ -49,7 +49,7 @@ function Dashboard() {
         
         <div className="flex items-center gap-2 text-sm text-slate-500">
           <span className="w-2 h-2 rounded-full bg-green-500"></span>
-          <span>Scanare AI | Validare în timp real </span>
+          <span>Scanare AI | Validare automată </span>
         </div>
       </nav>
 
